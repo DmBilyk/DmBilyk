@@ -68,7 +68,7 @@ Tools        Git · Linux / macOS / Windows · Design Patterns · Software Archi
 ## Currently
 
 - 🔍 Looking for a junior AI / Backend engineering role
-- 📚 Preparing for IELTS (B2 → target 6.5+)
+- 📚 Preparing for IELTS (C1 → target 7.0+)
 - 🏗️ Sharpening independent coding skills through daily practice
 
 ---
