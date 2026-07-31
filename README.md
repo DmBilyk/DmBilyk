@@ -1,6 +1,6 @@
 # Dmytro Bilyk
 
-** AI Engineer** · Termopil, Ukraine
+ Data Scientist· Ternopil, Ukraine
 
 
 ## Education & Certificates
